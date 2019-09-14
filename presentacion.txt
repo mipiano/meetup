@@ -1,1 +1,3 @@
 Hoy estamos aprendiendo git desde la terminal
+
+Muchas gracias a Tierra Violeta por recibirnos <3
